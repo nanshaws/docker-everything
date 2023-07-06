@@ -25,6 +25,6 @@ docker run -d -p 6379:6379 --name myredis -v /root/redis/conf/redis.conf :/etc/r
 
 ![image-20230706105929291](https://github.com/nanshaws/docker-everything/blob/main/img/image-20230706105929291.png)
 
-https://github.com/nanshaws/docker-everything/blob/main/img/image-20230706110005970.png
+![image-2001](https://github.com/nanshaws/docker-everything/blob/main/img/image-20230706110005970.png)
 
 成功！！！！！！
