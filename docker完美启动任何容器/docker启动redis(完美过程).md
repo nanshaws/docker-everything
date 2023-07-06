@@ -23,8 +23,8 @@ docker run -d -p 6379:6379 --name myredis -v /root/redis/conf/redis.conf :/etc/r
 
 这里用的是redis桌面版
 
-()https://github.com/nanshaws/docker-everything/blob/main/img/image-20230706105929291.png
+https://github.com/nanshaws/docker-everything/blob/main/img/image-20230706105929291.png
 
-()https://github.com/nanshaws/docker-everything/blob/main/img/image-20230706110005970.png
+https://github.com/nanshaws/docker-everything/blob/main/img/image-20230706110005970.png
 
 成功！！！！！！
