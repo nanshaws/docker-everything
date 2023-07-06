@@ -23,7 +23,7 @@ docker run -d -p 6379:6379 --name myredis -v /root/redis/conf/redis.conf :/etc/r
 
 这里用的是redis桌面版
 
-![image-20230706105929291](C:\Users\cao'yang'lin\AppData\Roaming\Typora\typora-user-images\image-20230706105929291.png)
+img/image-20230706105929291.png
 
 ![image-20230706110005970](C:\Users\cao'yang'lin\AppData\Roaming\Typora\typora-user-images\image-20230706110005970.png)
 
