@@ -24,4 +24,4 @@ CONTAINER ID   IMAGE       COMMAND                  CREATED         STATUS      
 
 用DBeaver测试一下
 
-![image-20230706140116188](https://github.com/nanshaws/docker-everything/blob/main/img/image-20230706140116188.png)
+![image-20230706140116188](../img/image-20230706140116188.png)
